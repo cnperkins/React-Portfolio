@@ -14,7 +14,7 @@ class Landing extends Component {
                             className="chloe-img"
                         />
                         <div className="banner-text">
-                            <h1>Chloe Perkins</h1>
+                            <h1>Full Stack Web Developer</h1>
                             <hr/>
                             <p>HTML/CSS | Bootstrap | Javascript | React | NodeJS | Express | MongoDB</p>
 
