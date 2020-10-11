@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is my first React portfolio. I included a Home page where a Navbar with links to the other pages. I have a projects page where my projects can be seen. I also added a Contact page for companies or collaborators to contact me. I used React, React-MDL, React-router-dom, HTML5 and CSS to build out this portfolio.
+This is my first React portfolio. I included a Home page where a Navbar with links to the other pages. I have a projects page where my projects can be seen. I also added a contact page for companies or collaborators to contact me. I used React, React-MDL, React-router-dom, HTML5 and CSS to build out this portfolio.
 
 My motivation for creating this web page was to show potential employers who I am personally and what I am capable of as a coder.
 
@@ -30,7 +30,7 @@ https://imagizer.imageshack.com/img924/4628/A7vKv5.png
 
 Here is the GitHub link: https://github.com/cnperkins/React-Portfolio
 
-Here is the deployed link: 
+Here is the deployed link: https://cnperkins.github.io/React-Portfolio/
 
 
 Chloe Perkins
