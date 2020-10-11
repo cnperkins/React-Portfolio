@@ -98,14 +98,14 @@ class Projects extends Component {
                 </Card>
 
                 <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-                    <CardTitle style={{ color: 'black', height: '176px', background: 'url(https://imagizer.imageshack.com/img924/8792/i0mopc.png) center / cover' }} ></CardTitle>
+                    <CardTitle style={{ color: 'black', height: '176px', background: 'url(https://imagizer.imageshack.com/img924/7230/ZXinC4.png) center / cover' }} ></CardTitle>
                     <CardText>Google Books Search</CardText>
                     <CardActions border>
                         <Button colored>
                             <a href="https://github.com/cnperkins/Google-Books-Search" target="_blank" rel="noopener noreferrer">GitHub</a>
                         </Button>
                         <Button colored>
-                            <a href="https://floating-ocean-44749.herokuapp.com/" target="_blank" rel="noopener noreferrer">Deployed</a>
+                            <a href="https://dry-ocean-07794.herokuapp.com/" target="_blank" rel="noopener noreferrer">Deployed</a>
                         </Button>
                     </CardActions>
                     <CardMenu style={{ color: "fff" }}>
